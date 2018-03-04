@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyArk.Plugins", "FantasyArk.Plugins.csproj", "{594A153A-132E-83A3-72D2-1834B5476412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyArk", "FantasyArk.csproj", "{90D5CB80-03F0-0F8F-F844-9A926CF19041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyArk.Editor.Plugins", "FantasyArk.Editor.Plugins.csproj", "{85D3E476-F6FD-CFFC-E315-03604A614275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyArk.Editor", "FantasyArk.Editor.csproj", "{DDF96665-AEC2-0FDD-0FC5-AC3B8E893575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594A153A-132E-83A3-72D2-1834B5476412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594A153A-132E-83A3-72D2-1834B5476412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594A153A-132E-83A3-72D2-1834B5476412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594A153A-132E-83A3-72D2-1834B5476412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D5CB80-03F0-0F8F-F844-9A926CF19041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D5CB80-03F0-0F8F-F844-9A926CF19041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D5CB80-03F0-0F8F-F844-9A926CF19041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D5CB80-03F0-0F8F-F844-9A926CF19041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D3E476-F6FD-CFFC-E315-03604A614275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D3E476-F6FD-CFFC-E315-03604A614275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D3E476-F6FD-CFFC-E315-03604A614275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D3E476-F6FD-CFFC-E315-03604A614275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF96665-AEC2-0FDD-0FC5-AC3B8E893575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF96665-AEC2-0FDD-0FC5-AC3B8E893575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF96665-AEC2-0FDD-0FC5-AC3B8E893575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF96665-AEC2-0FDD-0FC5-AC3B8E893575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
